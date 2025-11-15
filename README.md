@@ -64,10 +64,6 @@ npm install
 4. **Configure environment variables**
 
 Create a `.env` file in the `server` directory:
-```env
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/brandtracker
-# Or use MongoDB Atlas:
 
 
 JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
