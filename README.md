@@ -68,7 +68,7 @@ Create a `.env` file in the `server` directory:
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/brandtracker
 # Or use MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/brandtracker?retryWrites=true&w=majority
+
 
 JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
 
